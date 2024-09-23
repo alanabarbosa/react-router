@@ -1,0 +1,14 @@
+.content {
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr;
+    gap: 50px;
+    padding: 20px 0;
+}
+
+.content img {
+    width: 250px;
+}
+
+.content a {
+    width: 350px;
+}
